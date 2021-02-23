@@ -1,6 +1,5 @@
-# xLoy Nuke Bot 
 
-# Discord Nuker.
+# xLoy Discord Nuker.
 - A Custom Discord Server Nuke Bot
 
 # How it Works.
