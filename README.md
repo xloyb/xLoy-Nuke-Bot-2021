@@ -6,16 +6,20 @@
 # How it Works.
 
 It uses a user token to run commands like a bot.
-Using these commands we can do mass tasks such as deleting channels, spamming roles, and more.
+Using these commands we can do mass tasks such banning members (next update), 
+set you a role with ADMINSTRATOR perms, and mass mention.
 
 # How to Install.
 
-**Windows**
+*YOUTUBE TUTORIAL* [__Here__](https://youtu.be/d23kFnNqFCo).
 
 1) Install node
-3) [botsettings.json] Edit the Script to your Discord token `Token("bot token goes here")`
-4) Open CMD and enter the command `python main.py`
+2) [botsettings.json] Edit the Script to your Discord token `Token("bot token goes here")`
+3) Run `npm install discord.js`
+4) Run `node bot.js`
 5) Destroy Servers :)
+
+
 
 
 # Our Forum. [DAILY FREE ACCOUNTS]
@@ -24,4 +28,4 @@ Using these commands we can do mass tasks such as deleting channels, spamming ro
 
 # UPGRADE YOUR ACCOUNT ON GamingForum.to
 
-[Patreon](https://gamingforum.to/plans.php)
+[UPGRADE TODAY](https://gamingforum.to/plans.php)
