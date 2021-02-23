@@ -1,0 +1,13 @@
+{
+  "name": "xloy",
+  "author": "xLoy",
+  "this bot owned by": "https://GamingForum.to",
+  "FOR FREE ACCOUNTS OR LEAKED SOURCECODES VISIT": "https://GamingForum.to",
+  "version": "0.0.1",
+  "description": "a bot that will allow you to destroy discord servers",
+  "main": "bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
